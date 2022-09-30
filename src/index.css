@@ -1,0 +1,129 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background-image: url('./bg1.png');
+	background-size: cover;
+	background-position: top center;
+	
+}
+
+.header-img {
+	width: 100%;
+	height: 300px;
+	background: url('./header.jpg');
+	background-size: cover;
+}
+
+.jojo-img2 {
+	width: 570px;
+	height: 400px;
+	background: url('./jojo2.jpg');
+	background-size: cover;	
+}
+
+.jojo-img1 {
+	width: 570px;
+	height: 400px;
+	background: url('./jojo1.jpg');
+	background-size: cover;
+}
+
+.jojo-img3 {
+	width: 570px;
+	height: 400px;
+	background: url('./jojo3.jpg');
+	background-size: cover;
+}
+
+.jojo-img4 {
+	width: 570px;
+	height: 400px;
+	background: url('./jojo4.jpg');
+	background-size: cover;
+}
+
+.jojo-img5 {
+	width: 800px;
+	height: 600px;
+	background: url('./jojo4.jpg');
+	background-size: cover;
+}
+
+
+.tech1 {
+	width: 570px;
+	height: 400px;
+	background: url('./tech1.png');
+	background-size: cover;
+}
+
+.smoke {
+	width: 570px;
+	height: 400px;
+	background: url('./smoke.png');
+	background-size: cover;
+}
+
+.dream {
+	width: 570px;
+	height: 400px;
+	background: url('./dream.png');
+	background-size: cover;
+}
+
+.flowing {
+	width: 570px;
+	height: 400px;
+	background: url('./flowing.png');
+	background-size: cover;
+}
+
+.billowing {
+	width: 570px;
+	height: 400px;
+	background: url('./billowing.png');
+	background-size: cover;
+}
+
+.greatness {
+	width: 800px;
+	height: 1550px;
+	background: url('./greatness.jpg');
+	background-size: cover;
+	transform: scale(0.8,0.8);
+}
+
+.sidekick {
+	width: 700px;
+	height: 1100px;
+	background: url('./sidekick.png');
+	background-size: cover;
+}
+
+.wantu {
+	width: 700px;
+	height: 800px;
+	background: url('./wantu.png');
+	background-size: cover;
+}
+
+.ready {
+	width: 500px;
+	height: 400px;
+	background: url('./ready.png');
+	background-size: cover;
+}
+
+.jump {
+	width: 700px;
+	height: 900px;
+	background: url('./jump.png');
+	background-size: cover;
+	transform: scale(0.9,0.9);
+}
+
+.background-gradient {
+	background: radial-gradient(ellipse at right bottom, #EEB1BF 5%, #d42dab 25%, #4d1d63 50%, #030243 100%);
+ }
