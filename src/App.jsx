@@ -16,10 +16,8 @@ function App() {
 							<button class="button button-blue " data-ripple-light="true">
 								<a href="https://twitter.com/JojoSidekick" className="mx-3 hover:opacity-80 duration-150">Twitter</a>
 							</button>
-							<button class="button button-gradient button-pink" data-ripple-light="true">
-								<a href="https://www.twitter.com" className="mx-3 hover:opacity-80 duration-150">Telegram</a> 
-							</button>
-								<button class="button button-gradient button-pink" data-ripple-light="true"><a href="https://www.etherscan.com" className="mx-3 hover:opacity-80 duration-150">Etherscan Contract</a>
+								<button class="button button-gradient button-pink" data-ripple-light="true">
+								<a href="https://www.etherscan.com" className="mx-3 hover:opacity-80 duration-150">Etherscan Contract</a>
 							</button>
 							
 							<button class="button button-gradient button-pink" data-ripple-light="true">
@@ -37,7 +35,7 @@ function App() {
 					/>
 					</div>
 					<div class="card-body w-2/3 ">
-					<h1 class="text-white">JOJO's Sidekick ($JJSK)</h1>
+					<h1 class="text-white">JOJO's Sidekick ($JOJOSK)</h1>
 					<a href="#">
 						<h3 class="mt-4 opacity-100 text-blue-500">Every Hero Needs a Sidekick</h3>
 					</a>
@@ -80,16 +78,16 @@ function App() {
 						</div>
 						<div class="card-body">
 							<a href="#">
-							<h4 class="font-medium">Tax 5/5</h4>
+							<h4 class="font-medium">Tax 6/6</h4>
 							</a>
 							<p>Breakdown:</p>
 							<p class="opcacity-60 mb-3 text-left">
 								<p>2% automatically sent to $JOJO deployer wallet</p>
-								<p>1% Liquidity Provision</p>
+								<p>2% Liquidity Provision</p>
 								<p>2% Development and Marketing</p> 
 							</p>
 						<button class="button button-pink" data-ripple-light="true">
-						View Contract
+						<a href="https://www.etherscan.com">View Contract</a>
 						</button>
 						</div>
 					</div>
